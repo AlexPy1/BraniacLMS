@@ -163,3 +163,5 @@ SOCIAL_AUTH_GITHUB_SECRET = "d53ff8211ea53b47ee5ae1a3d4149296aef65e97"
 CRISPY_TEMPLATE_PACK = "bootstrap4"
 
 LOCALE_PATHS = [BASE_DIR / "locale"]
+
+SELENIUM_DRIVER_PATH_FF = BASE_DIR / "var" / "selenium" / "geckodriver"
